@@ -1,0 +1,9 @@
+{"intents": [
+    {"tag": "greetings",
+        "chat": ["Hello", "Hi", "How are you?", "Hey", "Morning!", "Hey there", "What's new?", "It's good to see you", "G'day", "Howdy", "What's up?", "How's it going?", "It's a pleasure to meet you"],
+        "responses": ["Hi, how can i help you?", "Hello there and welcome to Matöppets chatbot", "Hello!"]
+}
+]
+
+
+}
